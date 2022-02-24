@@ -1,0 +1,16 @@
+button {
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 0px;
+}
+
+img {
+    width: 400px;
+    margin-left: 5px;
+    margin-bottom: 15px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+
